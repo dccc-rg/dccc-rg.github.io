@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# The Construction and Organization of a Subculture Digital Community in China -- A Case Study Based on “The Inviting Plan for 985 Fives”  
 
-You can use the [editor on GitHub](https://github.com/dccc-rg/dccc-rg.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This research aims to examine the construction of an online community in China called “The Inviting Plan for 985 Fives.” It is a virtual community set up on 10 May, 2020 on Douban. Douban is a Chinese platform where users can rate and review films, books, and music, as well as set up diverse interest groups. "The inviting plan for 985 fives" is a community where 985 university students or graduates share their learning and work failure experiences. In this research, we focus on this particular community, and will lead to in-depth understanding of this digital community, particularly its construction. Understanding particular community is of broader importance to understanding of the social mechanisms of online communities in China, contributing to the field of Media and Communication Studies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The research group
 
-### Markdown
+We are: GUO Jingyi, JI Ran, JIN Lu, Kit Kuksenok, LEI Qinyuan, LI Jiaxun, SHEN Yue, TANG Ran, WU Yujie, ZHANG Xinyu.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Affiliated Organization:  School of Journalism and Communication, The Chinese University of Hong Kong
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dccc-rg/dccc-rg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We are an independent research group from the Global Communication Program at the Chinese University of Hong Kong. If you have any further questions regarding our research project, please contact our supervisor: Dr. Qinyuan Lei: mail _at_ qinyuanlei _dot_ com 
