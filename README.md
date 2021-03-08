@@ -4,7 +4,7 @@ This research aims to examine the construction of an online community in China c
 
 ## About Us
 
-We are: GUO Jingyi, JI Ran, JIN Lu, Kit Kuksenok, LEI Qinyuan, LI Jiaxun, SHEN Yue, TANG Ran, WU Yujie, ZHANG Xinyu.
+We are: GUO Jingyi, JI Ran, JIN Lu, KUKSENOK Kit, LEI Qinyuan, LI Jiaxun, SHEN Yue, TANG Ran, WU Yujie, ZHANG Xinyu.
 
 Affiliated Organization:  School of Journalism and Communication, The Chinese University of Hong Kong
 
