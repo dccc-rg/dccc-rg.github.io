@@ -14,7 +14,7 @@ We are an independent research group from the Global Communication Program at th
 
 ## Informed Consent
 
-We are currently in the process of obtaining Institutional Review Board (IRB) approval for this study. You can view the consent form here: [Consent Form 985 Fives 08.03.2021.pdf](https://github.com/dccc-rg/dccc-rg.github.io/files/6101799/Consent.Form.985.Fives.08.03.2021.pdf)
+Our study was approved by the Institutional Review Board (IRB) on March 11, 2021, and the Reference No. is SBRE-20-571.You can view the consent form here: [Consent Form 985 Fives 08.03.2021.pdf](https://github.com/dccc-rg/dccc-rg.github.io/files/6101799/Consent.Form.985.Fives.08.03.2021.pdf)
 
 ---
 
