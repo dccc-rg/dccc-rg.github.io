@@ -23,7 +23,6 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 This study aims to explore forms, reasons, and implications of the counter-official discourses on the Communist Youth League of China’s (CYLC) virtual idols on Weibo in the period of February-March 2020. Specifically, it aims to investigate: How individual netizens grapple with and publicly display their relationship with the CYLC, which is generally regarded by the Chinese public as a representative of the nation state; Whether the Chinese netizens’ projection of patriarchal values onto the nation state is responsible for their gendered discourses on the virtual idols; Why the CYLC’s introduction of fandom into political communication has failed to meet public expectations in this specific case, and whether this failure implies a change in the Chinese public’s perception of the nation state. This research not only provides insight into the Chinese public’s understanding and expectations of the nation state, but also unveils how digital media enables the individual to negotiate his or her relationship with the nation state in unprecedented ways. 
 
 *CYLC: Communist Youth League of China
-
 *Jiangshanjiao and Hongqiman (江山嬌與紅旗漫 in Chinese): two virtual idols launched by the CYLC on Weibo in February, 2020. The authority deleted all of the posts related to these two virtual idols five hours after their official launch.
 
 ## About Us
