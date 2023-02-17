@@ -1,8 +1,8 @@
 # Project 1
 
-## The Construction and Organization of a Subculture Digital Community in China: A Case Study Based on “The Inviting Plan for 985 Fives”  
+## Identity Struggles as Online Activism in China: A Case Study Based on “The Inviting Plan for 985 Fives” Community on Douban
 
-This research aims to examine the construction of an online community in China called “The Inviting Plan for 985 Fives.” It is a virtual community set up on 10 May, 2020 on Douban. Douban is a Chinese platform where users can rate and review films, books, and music, as well as set up diverse interest groups. "The inviting plan for 985 fives" is a community where 985 university students or graduates share their learning and work failure experiences. In this research, we focus on this particular community, and will lead to in-depth understanding of this digital community, particularly its construction. Understanding particular community is of broader importance to understanding of the social mechanisms of online communities in China, contributing to the field of Media and Communication Studies.
+Online communities support the well-being of their members by encouraging their social identity formation. In the context of an online community, online activism in the form of identity struggles can be particularly helpful for marginalized individuals or groups. Since May 2020, students from the 985 universities, an elite educational project in China, have been coming to an online community named “The Inviting Plan for 985 Fives” on Douban, an interest-based Social Network Site (SNS), to discuss their failure and dissatisfaction in life. Students who were once recognized for their academic excellence now identify as “fives” (or “garbage”). The present study examines how the Douban group, as a social network and collaborative system, supports the group members in their identity struggles in the context of increasingly fierce peer competition in China. We employ a qualitative approach, combining ethnographic methods such as participant observation and semi-structured interviews, with in-depth analysis of the top discussion threads. We discover that while peer competition and social stratification in contemporary China cause students at the top universities to feel anxious and lost, the online community they built collectively supports them to create a new social identity, the identity of “five,” which is the basis of their online activism. Through this new identity, they seek unofficial democracy, civic participation, and possibilities of social change.
 
 ## About Us
 
@@ -18,9 +18,9 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 
 # Project 2
 
-## Investigating Public Expectations of the Nation State in a Digital Age: A Case Study of the Online Discourses and Counter-Discourses on the CYLC’s Virtual Idols 
+## “We Are Citizens, Not Fans!”: A Case Study of Online Political Discourse During the Early COVID-19 Crisis in China
 
-This study aims to explore forms, reasons, and implications of the counter-official discourses on the Communist Youth League of China’s (CYLC) virtual idols on Weibo in the period of February-March 2020. Specifically, it aims to investigate: How individual netizens grapple with and publicly display their relationship with the CYLC, which is generally regarded by the Chinese public as a representative of the nation state; Whether the Chinese netizens’ projection of patriarchal values onto the nation state is responsible for their gendered discourses on the virtual idols; Why the CYLC’s introduction of fandom into political communication has failed to meet public expectations in this specific case, and whether this failure implies a change in the Chinese public’s perception of the nation state. This research not only provides insight into the Chinese public’s understanding and expectations of the nation state, but also unveils how digital media enables the individual to negotiate his or her relationship with the nation state in unprecedented ways. 
+In February 2020, The Communist Youth League of China (CYLC) launched two virtual idols, Jiangshanjiao and Hongqiman, on Weibo, one of the most widely used social media platforms in China, in an attempt to incorporate fandom culture into political communication. Amidst widespread discontent with the management of the COVID-19 outbreak in China, such misuse of fandom culture triggered a backlash among the Chinese netizens. Many netizens refuted idolization of political actors by protesting “We are citizens, not fans!” This study uses Fairclough’s critical discourse analysis (CDA) to examine the political discourse based on the hashtag #Jiangshan- jiaoandHongqiman#. Rather than adopting the framework of control and resistance prevalent in Chinese Internet research, our study focuses on the netizens’ inconsistent ideas and concepts in their counter-discourse. We find that while the netizens’ fervent protest was successful in forcing the removal of the virtual idols, their political discontent was paradoxically accompanied by strong nationalist sentiment. Moreover, their savvy use of fandom language is contradictory to their objection to the use of fandom culture in the political domain. This article contributes to the literature on online activism by shedding light on the complexity and ambivalence of online political discourse in the Chinese context.
 
 *Jiangshanjiao and Hongqiman (江山嬌與紅旗漫 in Chinese): two virtual idols launched by the CYLC on Weibo in February, 2020. The authority deleted all of the posts related to these two virtual idols five hours after their official launch.
 
@@ -36,6 +36,41 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 
 ---
 
+# Project 3
+
+## Building Feminist Safe Spaces: Moderation Practices as Boundary Setting in Douban Feminist Groups
+
+While social media scholars have widely acknowledged that individualized discourses have the potential to promote feminist agendas on social media platforms, few have looked at moderators of online communities, especially in a Chinese context where feminist voices are curtailed by ubiquitous censorship in cyberspace. Drawing upon Gamson’s framework of collective identity (1997), this study investigates how volunteer moderators of online feminist communities on Douban, one of the most popular social media sites in China, contribute to collective identity construction and boundary negotiation of their communities.
+
+## About Us
+
+We are: GUO Jingyi, LEI Qinyuan, TANG Ran, TANG Zilu
+
+Affiliated Organization:  School of Design, Southern University of Science and Technology
+
+## IRB Review
+
+Our study was approved by the Institutional Review Board (IRB) on November 28, 2022, and the Reference No. is 2022GPES236. 
+
+---
+
+# Project 4
+
+## Otome Games in China
+
+Otome games are story-based video games that are mainly designed for young women, allowing them to develop a romantic relationship with one of the lead male characters. The term “otome,” which is an archaic term in Japanese for “unmarried young girls,” has been adopted to describe a new genre of games that targets young girls (Andlauer, 2018, p. 166). The Otome game studied in this research, Mr Love: Queen's Choice, is a mobile game first launched on December 14, 2017, by a Chinese mobile game company, mainly targeting young female players in China. The player adopts the perspective of a female avatar. While going through the designed storyline, the player is also asked to choose one or multiple romantic partners among four male leads and develop a relationship with him/them. The fact that the player can choose more than one romantic partner by dating different love interests at the same time makes Otome games also “a space to question the gender identities built into our society” (Andlauer, 2018, p.166). This study examines how the Otome game, Mr Love: Queen's Choice, provides a safe space for players to freely explore romantic connections outside of gender norms and expectations set by Chinese society. More specifically, this study emphasizes how this safe space functions as a social space for young people where they provide each other with both emotional and social support in an unconventional “imagined community” founded on shared romantic experiences and shared romantic partners, and mediated by networked technologies (Anderson, 2006). 
+
+## About Us
+
+We are: GUO Jingyi, Ho Hui Man, LEI Qinyuan, TANG Ran, TANG Zilu
+
+Affiliated Organization:  School of Design, Southern University of Science and Technology
+
+## IRB Review
+
+Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. 
+
+---
 
 ## Contact
 
@@ -43,4 +78,4 @@ We are an independent research group from the Global Communication Program at th
 
 ---
 
-_Last updated_: April 14, 2021
+_Last updated_: February 17, 2023
