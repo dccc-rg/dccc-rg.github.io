@@ -76,7 +76,7 @@ Our study was approved by the Institutional Review Board (IRB) on December 29, 2
 
 ## Contact
 
-We are an independent research group from the Global Communication Program at the Chinese University of Hong Kong. If you have any further questions regarding our research project, please contact our supervisor: Dr. Qinyuan Lei: mail _at_ qinyuanlei _dot_ com 
+If you have any further questions regarding our research project, please contact our supervisor: Dr. Qinyuan Lei: mail _at_ qinyuanlei _dot_ com 
 
 ---
 
