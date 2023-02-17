@@ -50,7 +50,7 @@ Affiliated Organization:  School of Design, Southern University of Science and T
 
 ## Informed Consent
 
-Our study was approved by the Institutional Review Board (IRB) on November 28, 2022, and the Reference No. is 2022GPES236. You can view the consent form here: [moderators consent form.docx](https://github.com/dccc-rg/dccc-rg.github.io/files/6210114/Consent.Form.985.Fives.25.03.2021.pdf)
+Our study was approved by the Institutional Review Board (IRB) on November 28, 2022, and the Reference No. is 2022GPES236. You can view the consent form here: [moderators consent form.docx](https://github.com/dccc-rg/dccc-rg.github.io/blob/125f73df263271d8c6a42af4bd25a8dbf11ee955/moderators%20consent%20form.docx)
 
 ---
 
