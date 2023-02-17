@@ -42,7 +42,7 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 
 While social media scholars have widely acknowledged that individualized discourses have the potential to promote feminist agendas on social media platforms, few have looked at moderators of online communities, especially in a Chinese context where feminist voices are curtailed by ubiquitous censorship in cyberspace. Drawing upon Gamson’s framework of collective identity (1997), this study investigates how volunteer moderators of online feminist communities on Douban, one of the most popular social media sites in China, contribute to collective identity construction and boundary negotiation of their communities.
 
-Abstract is accepted by International Communication Association 2023 conference.
+The abstract of this project is accepted by International Communication Association 2023 conference.
 
 ## About Us
 
