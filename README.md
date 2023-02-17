@@ -48,9 +48,9 @@ We are: GUO Jingyi, LEI Qinyuan, TANG Ran, TANG Zilu
 
 Affiliated Organization:  School of Design, Southern University of Science and Technology
 
-## IRB Review
+## Informed Consent
 
-Our study was approved by the Institutional Review Board (IRB) on November 28, 2022, and the Reference No. is 2022GPES236. 
+Our study was approved by the Institutional Review Board (IRB) on November 28, 2022, and the Reference No. is 2022GPES236. You can view the consent form here: [moderators consent form.docx](https://github.com/dccc-rg/dccc-rg.github.io/files/6210114/Consent.Form.985.Fives.25.03.2021.pdf)
 
 ---
 
@@ -66,9 +66,9 @@ We are: GUO Jingyi, Ho Hui Man, LEI Qinyuan, TANG Ran, TANG Zilu
 
 Affiliated Organization:  School of Design, Southern University of Science and Technology
 
-## IRB Review
+## Informed Consent
 
-Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. 
+Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. You can view the consent form here: [Otome games consent form.docx](https://github.com/dccc-rg/dccc-rg.github.io/files/6210114/Consent.Form.985.Fives.25.03.2021.pdf)
 
 ---
 
