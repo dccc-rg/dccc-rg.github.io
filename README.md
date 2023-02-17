@@ -68,7 +68,7 @@ Affiliated Organization:  School of Design, Southern University of Science and T
 
 ## Informed Consent
 
-Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. You can view the consent form here: [Otome games consent form.docx](https://github.com/dccc-rg/dccc-rg.github.io/files/6210114/Otome games consent form.docx)
+Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. You can view the consent form here: [Otome games consent form.docx](https://raw.githubusercontent.com/dccc-rg/dccc-rg.github.io/main/Otome%20games%20consent%20form.docx)
 
 ---
 
