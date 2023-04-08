@@ -45,7 +45,7 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 
 This study explores the intersection of feminist counterpublics and content moderation practices. It adopts qualitative methods to examine the work of volunteer moderators in online women-only communities on Douban, one of the most popular social media sites in China. Female users have built groups for women in a specific profession to exchange information and seek support; others are for women to discuss hobbies such as gaming and literary writing. By investigating the daily work of volunteer moderators in these groups, the paper argues that the moderators in the women-only communities have managed to provide their members with valuable feminist counterpublics. Through sharing personal experience and discussing seemingly banal topics, the moderators have created a space where group members can engage in everyday politics by participating in counternarratives to address gender inequalities prevalent in society.
 
-This project has been accepted to the 73rd Annual ICA Conference, 2023.
+This project has been accepted to the 73rd Annual International Communication Association (ICA) Conference, 2023.
 
 ## About Us
 
