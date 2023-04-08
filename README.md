@@ -4,9 +4,11 @@
 
 Online communities support the well-being of their members by encouraging their social identity formation. In the context of an online community, online activism in the form of identity struggles can be particularly helpful for marginalized individuals or groups. Since May 2020, students from the 985 universities, an elite educational project in China, have been coming to an online community named “The Inviting Plan for 985 Fives” on Douban, an interest-based Social Network Site (SNS), to discuss their failure and dissatisfaction in life. Students who were once recognized for their academic excellence now identify as “fives” (or “garbage”). The present study examines how the Douban group, as a social network and collaborative system, supports the group members in their identity struggles in the context of increasingly fierce peer competition in China. We employ a qualitative approach, combining ethnographic methods such as participant observation and semi-structured interviews, with in-depth analysis of the top discussion threads. We discover that while peer competition and social stratification in contemporary China cause students at the top universities to feel anxious and lost, the online community they built collectively supports them to create a new social identity, the identity of “five,” which is the basis of their online activism. Through this new identity, they seek unofficial democracy, civic participation, and possibilities of social change.
 
+This project has been accepted to The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW), 2023.
+
 ## About Us
 
-We are: GUO Jingyi, JI Ran, JIN Lu, KUKSENOK Kit, LEI Qinyuan, LI Jiaxun, SHEN Yue, TANG Ran, WU Yujie, ZHANG Xinyu.
+We are: GUO Jingyi, JI Ran, KUKSENOK Kit, LEI Qinyuan, LI Jiaxun, TANG Ran
 
 Affiliated Organization:  School of Journalism and Communication, The Chinese University of Hong Kong
 
@@ -18,9 +20,9 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 
 # Project 2
 
-## “We Are Citizens, Not Fans!”: A Case Study of Online Political Discourse During the Early COVID-19 Crisis in China
+## “We Are Citizens, Not Fans!”: A Case Study of Online Activism During the Early COVID-19 Crisis in China
 
-In February 2020, The Communist Youth League of China (CYLC) launched two virtual idols, Jiangshanjiao and Hongqiman, on Weibo, one of the most widely used social media platforms in China, in an attempt to incorporate fandom culture into political communication. Amidst widespread discontent with the management of the COVID-19 outbreak in China, such misuse of fandom culture triggered a backlash among the Chinese netizens. Many netizens refuted idolization of political actors by protesting “We are citizens, not fans!” This study uses Fairclough’s critical discourse analysis (CDA) to examine the political discourse based on the hashtag #JiangshanjiaoandHongqiman#. Rather than adopting the framework of control and resistance prevalent in Chinese Internet research, our study focuses on the netizens’ inconsistent ideas and concepts in their counter-discourse. We find that while the netizens’ fervent protest was successful in forcing the removal of the virtual idols, their political discontent was paradoxically accompanied by strong nationalist sentiment. Moreover, their savvy use of fandom language is contradictory to their objection to the use of fandom culture in the political domain. This article contributes to the literature on online activism by shedding light on the complexity and ambivalence of online political discourse in the Chinese context.
+In February 2020, The Communist Youth League of China (CYLC) launched two virtual idols, Jiangshanjiao and Hongqiman, on Weibo, one of the most widely used social media platforms in China. Amidst widespread discontent with the management of the COVID-19 outbreak in China, such misuse of fandom culture triggered a backlash among the Chinese netizens, who protested “We are citizens, not fans!” This study uses Fairclough’s critical discourse analysis to examine the political discourse based on the hashtag #JiangshanjiaoandHongqiman#. Our study focuses on the multiplicity of the netizens’ targets and political views in the hashtag activism. We find that their political discontent was paradoxically accompanied by strong nationalist sentiment. Moreover, their savvy use of fandom language is contradictory to their objection to the use of fandom culture in the political domain. This article contributes to the literature on online activism by shedding light on the complexity of online activism in China.
 
 *Jiangshanjiao and Hongqiman (江山嬌與紅旗漫 in Chinese): two virtual idols launched by the CYLC on Weibo in February, 2020. The authority deleted all of the posts related to these two virtual idols five hours after their official launch.
 
@@ -38,15 +40,16 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 
 # Project 3
 
-## Building Feminist Safe Spaces: Moderation Practices as Boundary Setting in Douban Feminist Groups
+## Building Digital Feminist Counterpublics: Community Moderators And the Everyday Politics in Douban Women-Only Groups
 
-While social media scholars have widely acknowledged that individualized discourses have the potential to promote feminist agendas on social media platforms, few have looked at moderators of online communities, especially in a Chinese context where feminist voices are curtailed by ubiquitous censorship in cyberspace. Drawing upon Gamson’s framework of collective identity (1997), this study investigates how volunteer moderators of online feminist communities on Douban, one of the most popular social media sites in China, contribute to collective identity construction and boundary negotiation of their communities.
 
-The abstract of this project is accepted by International Communication Association 2023 conference.
+This study explores the intersection of feminist counterpublics and content moderation practices. It adopts qualitative methods to examine the work of volunteer moderators in online women-only communities on Douban, one of the most popular social media sites in China. Female users have built groups for women in a specific profession to exchange information and seek support; others are for women to discuss hobbies such as gaming and literary writing. By investigating the daily work of volunteer moderators in these groups, the paper argues that the moderators in the women-only communities have managed to provide their members with valuable feminist counterpublics. Through sharing personal experience and discussing seemingly banal topics, the moderators have created a space where group members can engage in everyday politics by participating in counternarratives to address gender inequalities prevalent in society.
+
+This project has been accepted to the 73rd Annual ICA Conference, 2023.
 
 ## About Us
 
-We are: GUO Jingyi, LEI Qinyuan, TANG Ran, TANG Zilu
+We are: GUO Jingyi, HO Jolin Hiu-man, LEI Qinyuan, TANG Ran, TANG Zilu 
 
 Affiliated Organization:  School of Design, Southern University of Science and Technology
 
@@ -64,7 +67,7 @@ Otome games are story-based video games that are mainly designed for young women
 
 ## About Us
 
-We are: GUO Jingyi, Ho Hui Man, LEI Qinyuan, TANG Ran, TANG Zilu
+We are: GUO Jingyi, HO Jolin Hiu-man, LEI Qinyuan, TANG Ran, TANG Zilu, ZHOU Han
 
 Affiliated Organization:  School of Design, Southern University of Science and Technology
 
