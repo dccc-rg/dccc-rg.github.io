@@ -5,7 +5,7 @@
 Online communities support the well-being of their members by encouraging their social identity formation. In the context of an online community, online activism in the form of identity struggles can be particularly helpful for marginalized individuals or groups. Since May 2020, students from the 985 universities, an elite educational project in China, have been coming to an online community named “The Inviting Plan for 985 Fives” on Douban, an interest-based Social Network Site (SNS), to discuss their failure and dissatisfaction in life. Students who were once recognized for their academic excellence now identify as “fives” (or “garbage”).
 The present study examines how the Douban group, as a social network and collaborative system, supports the group members in their identity struggles in the context of increasingly fierce peer competition in China. We employ a qualitative approach, combining ethnographic methods such as participant observation and semi-structured interviews, with in-depth analysis of the top discussion threads. We discover that while peer competition and social stratification in contemporary China cause students at the top universities to feel anxious and lost, the online community they build collectively supports them to create a new social identity, the identity of “five,” which is the basis of their online activism. Through this new identity, they seek unofficial democracy, civic participation, and possibilities of social change.
 
-This project [PDF] has been accepted to The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW), 2023. DOI: https://doi.org/1145/3610070
+This project has been accepted to The 26th ACM Conference On Computer-Supported Cooperative Work And Social Computing (CSCW), 2023. DOI: https://doi.org/1145/3610070
 
 ## About Us
 
@@ -31,7 +31,7 @@ In February 2020, The Communist Youth League of China (CYLC) launched two virtua
 
 We are: LEI Qinyuan, LIANG Shanshan, TANG Ran
 
-Affiliated Organization:  School of Journalism and Communication, The Chinese University of Hong Kong
+Affiliated Organization: School of Journalism and Communication, The Chinese University of Hong Kong
 
 ## IRB Review
 
@@ -62,7 +62,7 @@ Our study was approved by the Institutional Review Board (IRB) on November 28, 2
 
 # Project 4
 
-## Otome Games in China
+## A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice in China
 
 Otome games are story-based video games that are mainly designed for young women, allowing them to develop a romantic relationship with one of the lead male characters. The term “otome,” which is an archaic term in Japanese for “unmarried young girls,” has been adopted to describe a new genre of games that targets young girls (Andlauer, 2018, p. 166). The Otome game studied in this research, Mr Love: Queen's Choice, is a mobile game first launched on December 14, 2017, by a Chinese mobile game company, mainly targeting young female players in China. The player adopts the perspective of a female avatar. While going through the designed storyline, the player is also asked to choose one or multiple romantic partners among four male leads and develop a relationship with him/them. The fact that the player can choose more than one romantic partner by dating different love interests at the same time makes Otome games also “a space to question the gender identities built into our society” (Andlauer, 2018, p.166). This study examines how the Otome game, Mr Love: Queen's Choice, provides a safe space for players to freely explore romantic connections outside of gender norms and expectations set by Chinese society. More specifically, this study emphasizes how this safe space functions as a social space for young people where they provide each other with both emotional and social support in an unconventional “imagined community” founded on shared romantic experiences and shared romantic partners, and mediated by networked technologies (Anderson, 2006). 
 
