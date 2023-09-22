@@ -21,26 +21,6 @@ Our study was approved by the Institutional Review Board (IRB) on March 11, 2021
 
 # Project 2
 
-## “We Are Citizens, Not Fans!”: A Case Study of Online Activism During the Early COVID-19 Crisis in China
-
-In February 2020, The Communist Youth League of China (CYLC) launched two virtual idols, Jiangshanjiao and Hongqiman, on Weibo, one of the most widely used social media platforms in China. Amidst widespread discontent with the management of the COVID-19 outbreak in China, such misuse of fandom culture triggered a backlash among the Chinese netizens, who protested “We are citizens, not fans!” This study uses Fairclough’s critical discourse analysis to examine the political discourse based on the hashtag #JiangshanjiaoandHongqiman#. Our study focuses on the multiplicity of the netizens’ targets and political views in the hashtag activism. We find that their political discontent was paradoxically accompanied by strong nationalist sentiment. Moreover, their savvy use of fandom language is contradictory to their objection to the use of fandom culture in the political domain. This article contributes to the literature on online activism by shedding light on the complexity of online activism in China.
-
-*Jiangshanjiao and Hongqiman (江山嬌與紅旗漫 in Chinese): two virtual idols launched by the CYLC on Weibo in February, 2020. The authority deleted all of the posts related to these two virtual idols five hours after their official launch.
-
-## About Us
-
-We are: LEI Qinyuan, LIANG Shanshan, TANG Ran
-
-Affiliated Organization: School of Journalism and Communication, The Chinese University of Hong Kong
-
-## IRB Review
-
-Our study was approved by the Institutional Review Board (IRB) on March 11, 2021, and the Reference No. is SBRE-20-560. 
-
----
-
-# Project 3
-
 ## Building Digital Feminist Counterpublics: Community Moderators And the Everyday Politics in Douban Women-Only Groups
 
 
@@ -60,7 +40,7 @@ Our study was approved by the Institutional Review Board (IRB) on November 28, 2
 
 ---
 
-# Project 4
+# Project 3
 
 ## A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice in China
 
@@ -75,6 +55,26 @@ Affiliated Organization:  School of Design, Southern University of Science and T
 ## Informed Consent
 
 Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. You can view the consent form here: [Otome games consent form.docx](https://raw.githubusercontent.com/dccc-rg/dccc-rg.github.io/main/Otome%20games%20consent%20form.docx)
+
+---
+
+# Project 4
+
+## “We Are Citizens, Not Fans!”: A Case Study of Online Activism During the Early COVID-19 Crisis in China
+
+In February 2020, The Communist Youth League of China (CYLC) launched two virtual idols, Jiangshanjiao and Hongqiman, on Weibo, one of the most widely used social media platforms in China. Amidst widespread discontent with the management of the COVID-19 outbreak in China, such misuse of fandom culture triggered a backlash among the Chinese netizens, who protested “We are citizens, not fans!” This study uses Fairclough’s critical discourse analysis to examine the political discourse based on the hashtag #JiangshanjiaoandHongqiman#. Our study focuses on the multiplicity of the netizens’ targets and political views in the hashtag activism. We find that their political discontent was paradoxically accompanied by strong nationalist sentiment. Moreover, their savvy use of fandom language is contradictory to their objection to the use of fandom culture in the political domain. This article contributes to the literature on online activism by shedding light on the complexity of online activism in China.
+
+*Jiangshanjiao and Hongqiman (江山嬌與紅旗漫 in Chinese): two virtual idols launched by the CYLC on Weibo in February, 2020. The authority deleted all of the posts related to these two virtual idols five hours after their official launch.
+
+## About Us
+
+We are: LEI Qinyuan, LIANG Shanshan, TANG Ran
+
+Affiliated Organization: School of Journalism and Communication, The Chinese University of Hong Kong
+
+## IRB Review
+
+Our study was approved by the Institutional Review Board (IRB) on March 11, 2021, and the Reference No. is SBRE-20-560. 
 
 ---
 
