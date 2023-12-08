@@ -44,7 +44,7 @@ Our study was approved by the Institutional Review Board (IRB) on November 28, 2
 
 ## A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice in China
 
-Otome games are story-based video games that are mainly designed for young women, allowing them to develop a romantic relationship with one of the lead male characters. The term “otome,” which is an archaic term in Japanese for “unmarried young girls,” has been adopted to describe a new genre of games that targets young girls (Andlauer, 2018, p. 166). The Otome game studied in this research, Mr Love: Queen's Choice, is a mobile game first launched on December 14, 2017, by a Chinese mobile game company, mainly targeting young female players in China. The player adopts the perspective of a female avatar. While going through the designed storyline, the player is also asked to choose one or multiple romantic partners among four male leads and develop a relationship with him/them. The fact that the player can choose more than one romantic partner by dating different love interests at the same time makes Otome games also “a space to question the gender identities built into our society” (Andlauer, 2018, p.166). This study examines how the Otome game, Mr Love: Queen's Choice, provides a safe space for players to freely explore romantic connections outside of gender norms and expectations set by Chinese society. More specifically, this study emphasizes how this safe space functions as a social space for young people where they provide each other with both emotional and social support in an unconventional “imagined community” founded on shared romantic experiences and shared romantic partners, and mediated by networked technologies (Anderson, 2006). 
+Otome games are story-based video games that are mainly designed for young women, allowing them to develop a romantic relationship with one of the lead male characters. The term “otome,” which is an archaic term in Japanese for “unmarried young girls,” has been adopted to describe a new genre of games that targets young girls (Andlauer, 2018, p. 166). The Otome game studied in this research, Mr Love: Queen's Choice, is a mobile game first launched on December 14, 2017, by a Chinese mobile game company, mainly targeting young female players in China. The player adopts the perspective of a female avatar. While going through the designed storyline, the player is also asked to choose one or multiple romantic partners among four male leads and develop a relationship with him/them. The fact that the player can choose more than one romantic partner by dating different love interests at the same time makes Otome games also “a space to question the gender identities built into our society” (Andlauer, 2018, p.166). This study examines how the Otome game, Mr Love: Queen's Choice, provides a safe space for players to freely explore romantic connections outside of gender norms and expectations set by Chinese society. More specifically, this study emphasizes how this safe space functions as a social space for young people where they provide each other with social support in an unconventional “imagined community” founded on shared romantic experiences and shared romantic partners, and mediated by networked technologies (Anderson, 2006). 
 
 ## About Us
 
@@ -56,25 +56,6 @@ Affiliated Organization:  School of Design, Southern University of Science and T
 
 Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. You can view the consent form here: [Otome games consent form.docx](https://raw.githubusercontent.com/dccc-rg/dccc-rg.github.io/main/Otome%20games%20consent%20form.docx)
 
----
-
-# Project 4
-
-## “We Are Citizens, Not Fans!”: A Case Study of Online Political Discourse During the Pandemic in China
-
-In February 2020, The Communist Youth League of China (CYLC) launched two virtual idols, Jiangshanjiao and Hongqiman, on Weibo, one of the most widely used social media platforms in China. Amidst widespread discontent with the management of the COVID-19 outbreak in China, such misuse of fandom culture triggered a backlash among the Chinese netizens, who protested “We are citizens, not fans!” This study uses Fairclough’s critical discourse analysis to examine the political discourse based on the hashtag #JiangshanjiaoandHongqiman#. Our study focuses on the multiplicity of the netizens’ targets and political views in the hashtag activism. We find that their political discontent was paradoxically accompanied by strong nationalist sentiment. Moreover, their savvy use of fandom language is contradictory to their objection to the use of fandom culture in the political domain. This article contributes to the literature on online activism by shedding light on the complexity of online activism in China.
-
-*Jiangshanjiao and Hongqiman (江山嬌與紅旗漫 in Chinese): two virtual idols launched by the CYLC on Weibo in February, 2020. The authority deleted all of the posts related to these two virtual idols five hours after their official launch.
-
-## About Us
-
-We are: LEI Qinyuan, LIANG Shanshan, TANG Ran
-
-Affiliated Organization: School of Journalism and Communication, The Chinese University of Hong Kong
-
-## IRB Review
-
-Our study was approved by the Institutional Review Board (IRB) on March 11, 2021, and the Reference No. is SBRE-20-560. 
 
 ---
 
