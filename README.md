@@ -44,13 +44,16 @@ Our study was approved by the Institutional Review Board (IRB) on November 28, 2
 
 ## A Game of Love for Women: Social Support in Otome Game Mr. Love: Queen’s Choice in China
 
-Otome games are story-based video games that are mainly designed for young women, allowing them to develop a romantic relationship with one of the lead male characters. The term “otome,” which is an archaic term in Japanese for “unmarried young girls,” has been adopted to describe a new genre of games that targets young girls (Andlauer, 2018, p. 166). The Otome game studied in this research, Mr Love: Queen's Choice, is a mobile game first launched on December 14, 2017, by a Chinese mobile game company, mainly targeting young female players in China. The player adopts the perspective of a female avatar. While going through the designed storyline, the player is also asked to choose one or multiple romantic partners among four male leads and develop a relationship with him/them. The fact that the player can choose more than one romantic partner by dating different love interests at the same time makes Otome games also “a space to question the gender identities built into our society” (Andlauer, 2018, p.166). This study examines how the Otome game, Mr Love: Queen's Choice, provides a safe space for players to freely explore romantic connections outside of gender norms and expectations set by Chinese society. More specifically, this study emphasizes how this safe space functions as a social space for young people where they provide each other with social support in an unconventional “imagined community” founded on shared romantic experiences and shared romantic partners, and mediated by networked technologies (Anderson, 2006). 
+Otome games (also known as romantic video games, or RVGs) are story-based video games that are designed for young women, simulating the experience of a romantic relationship. Players are invited to adopt the female avatar’s perspective in the story and date one or more of the male characters. Our empirical study focuses on the different types of social support among the players of the Chinese otome game Mr. Love: Queen’s Choice. We discovered that although the game was initially designed to be a consumer product aiming to
+profit from a largely marginalized and stigmatized group of gamers, i.e., young female gamers, the game has created a gaming community in which the players seek and provide each other with social support. We primarily use ethnographic methods, including participant observation and in-depth interviews. Our study contributes to HCI research on mediated social support in game.
+
+This project has been accepted to CHI (2024)
 
 ## About Us
 
 We are: GUO Jingyi, HO Jolin Hiu-man, LEI Qinyuan, TANG Ran, TANG Zilu, ZHOU Han
 
-Affiliated Organization:  School of Design, Southern University of Science and Technology
+Affiliated Organization: School of Creative Media, City University of Hong Kong
 
 ## Informed Consent
 
