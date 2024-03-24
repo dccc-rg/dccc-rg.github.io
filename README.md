@@ -64,8 +64,8 @@ Our study was approved by the Institutional Review Board (IRB) on December 29, 2
 
 ## Contact
 
-If you have any further questions regarding our research project, please contact our supervisor: Dr. Qinyuan Lei: mail _at_ qinyuanlei _dot_ com 
+If you have any further questions regarding our research project, please contact our supervisor: Dr. Qinyuan Lei: qinyulei _at_ cityu _dot_ edu _dot_ hk 
 
 ---
 
-_Last updated_: September 22, 2023
+_Last updated_: March 24, 2024
