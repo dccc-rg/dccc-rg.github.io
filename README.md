@@ -32,7 +32,7 @@ This project has been accepted to the 73rd Annual International Communication As
 
 We are: GUO Jingyi, HO Jolin Hiu-man, LEI Qinyuan, TANG Ran, TANG Zilu 
 
-Affiliated Organization:  School of Design, Southern University of Science and Technology
+Affiliated Organization: School of Creative Media, City University of Hong Kong
 
 ## Informed Consent
 
@@ -47,7 +47,7 @@ Our study was approved by the Institutional Review Board (IRB) on November 28, 2
 Otome games (also known as romantic video games, or RVGs) are story-based video games that are designed for young women, simulating the experience of a romantic relationship. Players are invited to adopt the female avatar’s perspective in the story and date one or more of the male characters. Our empirical study focuses on the different types of social support among the players of the Chinese otome game Mr. Love: Queen’s Choice. We discovered that although the game was initially designed to be a consumer product aiming to
 profit from a largely marginalized and stigmatized group of gamers, i.e., young female gamers, the game has created a gaming community in which the players seek and provide each other with social support. We primarily use ethnographic methods, including participant observation and in-depth interviews. Our study contributes to HCI research on mediated social support in game.
 
-This project has been accepted to CHI (2024)
+This project has been accepted to CHI '24. DOI: [https://doi.org/10.1145/3613904.3642306](https://doi.org/10.1145/3613904.3642306)
 
 ## About Us
 
@@ -59,6 +59,25 @@ Affiliated Organization: School of Creative Media, City University of Hong Kong
 
 Our study was approved by the Institutional Review Board (IRB) on December 29, 2022, and the Reference No. is 2022GPES255. You can view the consent form here: [Otome games consent form.docx](https://raw.githubusercontent.com/dccc-rg/dccc-rg.github.io/main/Otome%20games%20consent%20form.docx)
 
+---
+
+# Project 4
+
+## Exploring the Ethical Dilemmas of Generative AI in Chinese Cyberspace: A Case Study of the “Cyber 10” Online Community
+
+This study examines grassroots Chinese Internet users' perspective on the ethical implications of generative AI from a sociological standpoint by analyzing opinions expressed in the “Cyber 10 Certification Station” online community on Weibo - a popular Chinese social media platform. “10” is a homophone of “corpse,” symbolic of feeding the corpse of artistic work to generative AI systems. Our thematic analysis and content analysis of the best posts of the community reveal several primary concerns surrounding generative AI, including copyright infringement, privacy issues, fake news, utilization in pornography, and potential threats to creatives' livelihood. This research adds valuable insights into the underrepresented viewpoints of Chinese practitioners and users regarding AI ethics within the CSCW community.
+
+A poster of this project has been accepted to ECSCW '24. 
+
+## About Us
+
+We are: HO Jolin Hiu-man, LEI Qinyuan, TANG Ran, TANG Zilu, ZHANG Yawen
+
+Affiliated Organization: School of Creative Media, City University of Hong Kong
+
+## Informed Consent
+
+Our study was approved by the Institutional Review Board (IRB) on February 14, 2022, and the Reference No. is HU-STA-00000871.
 
 ---
 
@@ -68,4 +87,4 @@ If you have any further questions regarding our research project, please contact
 
 ---
 
-_Last updated_: March 24, 2024
+_Last updated_: May 20, 2024
