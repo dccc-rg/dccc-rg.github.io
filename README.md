@@ -62,6 +62,22 @@ Our study was approved by the Institutional Review Board (IRB) on February 14, 2
 
 # Project 4
 
+## Playful, Coded, and Emotional Language: Discursive Strategies of Online Criticism on Chinese Social Media
+
+Language has always been essential in collective actions. Because offline collective actions are highly controlled in China, Chinese people often resort to online criticism, which heavily relies on the creative use of language to circumvent the government’s control of public communication. This study collects and analyzes the data of the #JiangshanjiaoandHongqiman# public discourse on Weibo to investigate the discursive characteristics of Chinese people’s online expressions. In February 2020, a mass organization of the government launched two official virtual idols on Weibo, one of the most widely used social media platforms in China. Amidst widespread discontent with the management of the pandemic, this intervention in fandom culture triggered a backlash among the Chinese Internet users. This study shows that the Chinese netizens expressed criticism through coded, playful, and emotional language. This article contributes to the literature on discursive strategies of online public discourse in China.
+
+This project has been accepted for publication by Discourse & Communication. 
+
+## About Us
+
+We are: LEI Qinyuan, TANG Ran
+
+Affiliated Organization:  School of Journalism and Communication, The Chinese University of Hong Kong; Department of Communication, The University of Washington
+
+---
+
+# Project 5
+
 ## Identity Struggles as Online Activism in China: A Case Study Based on “The Inviting Plan for 985 Fives” Community on Douban
 
 Online communities support the well-being of their members by encouraging their social identity formation. In the context of an online community, online activism in the form of identity struggles can be particularly helpful for marginalized individuals or groups. Since May 2020, students from the 985 universities, an elite educational project in China, have been coming to an online community named “The Inviting Plan for 985 Fives” on Douban, an interest-based Social Network Site (SNS), to discuss their failure and dissatisfaction in life. Students who were once recognized for their academic excellence now identify as “fives” (or “garbage”).
