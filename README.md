@@ -42,21 +42,20 @@ Our study was approved by the Institutional Review Board (IRB) on November 28, 2
 
 # Project 3
 
-## Exploring the Ethical Dilemmas of Generative AI in Chinese Cyberspace: A Case Study of the “Cyber 10” Online Community
+## AI Ethics, Gender, and Chinese Cyberspace 
 
-This study examines grassroots Chinese Internet users' perspective on the ethical implications of generative AI from a sociological standpoint by analyzing opinions expressed in the “Cyber 10 Certification Station” online community on Weibo - a popular Chinese social media platform. “10” is a homophone of “corpse,” symbolic of feeding the corpse of artistic work to generative AI systems. Our thematic analysis and content analysis of the best posts of the community reveal several primary concerns surrounding generative AI, including copyright infringement, privacy issues, fake news, utilization in pornography, and potential threats to creatives' livelihood. This research adds valuable insights into the underrepresented viewpoints of Chinese practitioners and users regarding AI ethics within the CSCW community.
+This study examines grassroots Chinese Internet users' perspective on generative AI from a sociological standpoint by analyzing opinions expressed in the “Cyber 10 Certification Station” online community on Weibo - a popular Chinese social media platform. 
 
 A poster of this project has been accepted to ECSCW '24. DOI: [https://doi.org/10.48340/ecscw2024_po04](https://doi.org/10.48340/ecscw2024_po04)
 
-## About Us
 
-We are: HO Jolin Hiu-man, LEI Qinyuan, TANG Ran, TANG Zilu, ZHANG Yawen
+## About Us
 
 Affiliated Organization: School of Creative Media, City University of Hong Kong
 
 ## Informed Consent
 
-Our study was approved by the Institutional Review Board (IRB) on February 14, 2022, and the Reference No. is HU-STA-00000871.
+Our study was approved by the Institutional Review Board (IRB), and the Reference No. is HU-STA-00001437.
 
 ---
 
